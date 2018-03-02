@@ -1,2 +1,3 @@
-# ga_project01
-General Assembly - Project 1 (Due 5th March 2018)
+# GA_Projects
+Folder containing the projects done during Data Science Immersive
+Course at General Assembly
